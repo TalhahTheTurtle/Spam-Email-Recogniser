@@ -1,4 +1,2 @@
-print("Hello World!")
-print("I like food")
-print("3rd line")
-print("yo")
+for i in range(0,10):
+    print(i)
